@@ -1,0 +1,29 @@
+* {
+  background-color: gray;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.mainContainer {
+  position: relative;
+  left: 20rem;
+  margin-top: 4rem;
+
+}
+
+#btn {
+  border: 2px solid wheat;
+  width: 6rem;
+  background-color: white;
+  color: blueviolet;
+  font-size: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  cursor: pointer;
+  margin: 0.2rem;
+}
+
+.sec {
+  text-align: center;
+  margin-top: 10rem;
+}
+
